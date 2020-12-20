@@ -5,15 +5,12 @@ I'm [Vishal Kumar](https://twitter.com/tech_deity), a **[Android  App Developer]
 
 <br/>
 
-- 🗼 Living in **Tokyo, Japan**
+- 🗼 Living in **NEW DELHI, India**
 
-- 👨‍💻 Currently Working at CyberAgent and NowDo
+- 👨‍💻 Currently Working at Mob Coder
 - 👍 Dog and Gaming 🐶 🎮
 - ✈️ Open to Remote Job Opportunities 🍻
 <br/>
-### 📈 GitHub Stats
-[![Wasabeef's github stats](https://github-readme-stats.tech-deity.vercel.app/api?username=tech-deity&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-deity&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ### ♡ Top Sponsors
 - [Become a sponsor](https://github.com/sponsors/tech-deity)
 <img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square&label=visitors" align="right" />
