@@ -1,16 +1,19 @@
-### Hi there 👋
+I'm [Vishal Kumar](https://twitter.com/tech_deity), a **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github].
+<br/>
+<br/>
 
-<!--
-**tech-deity/tech-deity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗼 Living in **Tokyo, Japan**
+
+- 👨‍💻 Currently Working at CyberAgent and NowDo
+- 👍 Dog and Gaming 🐶 🎮
+- ✈️ Open to Remote Job Opportunities 🍻
+<br/>
+### 📈 GitHub Stats
+[![Wasabeef's github stats](https://github-readme-stats.tech-deity.vercel.app/api?username=tech-deity&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-deity&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### ♡ Top Sponsors
+- [Become a sponsor](https://github.com/sponsors/tech-deity)
+<img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square&label=visitors" align="right" />
