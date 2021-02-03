@@ -6,16 +6,16 @@ I'm [Vishal Kumar](https://twitter.com/tech_deity), a **[Android  App Developer]
 <br/>
 
 
-Web development path 
-If you divide web development into subparts, it becomes easy to learnDown pointing backhand index
+Web development path <br/>
+If you divide web development into subparts, it becomes easy to learnDown pointing backhand index<br/>
 
-Lesson 1: HTML and CSS BricksArtist palette
-Lesson 2: CSS frameworks Abacus
-Lesson 3: JS and DOM GearPage with curl
-Lesson 4: Git and GitHub Card index dividers
-Lesson 5: React / Angular / Vue Atom symbol
-Lesson 6: Node.js Back with leftwards arrow aboveEnd with leftwards arrow above
-Lesson 7: API and Database File cabinetPage facing up
+Lesson 1: HTML and CSS BricksArtist palette <br/>
+Lesson 2: CSS frameworks Abacus <br/>
+Lesson 3: JS and DOM GearPage with curl <br/>
+Lesson 4: Git and GitHub Card index dividers <br/>
+Lesson 5: React / Angular / Vue Atom symbol <br/>
+Lesson 6: Node.js Back with leftwards arrow aboveEnd with leftwards arrow above <br/>
+Lesson 7: API and Database File cabinetPage facing up <br/>
 
 - 🗼 Living in **NEW DELHI, India**
 
