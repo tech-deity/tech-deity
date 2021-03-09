@@ -9,8 +9,23 @@ C <br/>
 C++ <br/>
 Java <br/>
 
-
-<br/>
+<h2> SKILLS  </h2> <br/>
+Json Parsing <br/>
+Rest APIs <br/>
+SQL <br/>
+GIT <br/>
+Google Material Design <br/>
+UI Development (prototyping) using Adobe Xd and Figma <br/>
+Google Maps <br/>
+Firebase Console <br/>
+Dagger <br/>
+MVVM <br/>
+Google Material Design <br/>
+Restful Web Services <br/>
+APIs integration <br/>
+Volley Library <br/>
+Live data <br/>
+Retrot <br/>
 
 
 Web development path <br/>
