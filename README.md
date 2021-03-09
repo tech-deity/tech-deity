@@ -1,7 +1,14 @@
-I'm [Vishal Kumar](https://twitter.com/tech_deity), a **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github].
+I'm [Vishal Kumar](https://twitter.com/tech_deity), a **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Mobile** development. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
+development position in Android App Development . Desire to dene and create the best possible
+solution to become an invaluable asset to the company
 <br/>
 <br/>
-<br> KOTLIN <br/>
+<h2> LANGUAGES </h2><br/>
+KOTLIN<br/>
+C <br/>
+C++ <br/>
+Java <br/>
+
 
 <br/>
 
