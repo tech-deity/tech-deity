@@ -130,7 +130,7 @@ Keep Learning and Improving </br>
 
 <br/> 
 
-Web development path <br/>
+<h2>Web development path </h2><br/>
 If you divide web development into subparts, it becomes easy to learnDown pointing backhand index<br/>
 
 Lesson 1: HTML and CSS BricksArtist palette <br/>
