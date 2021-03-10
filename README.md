@@ -61,4 +61,4 @@ Lesson 7: API and Database File cabinetPage facing up <br/>
 
 
 
-![Vishal Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-deity&langs_count=10&lact&hide=makefile,objective-c)
+![Vishal Kumar's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-deity&langs_count=10&lact&hide=makefile,html)
