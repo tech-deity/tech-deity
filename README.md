@@ -33,7 +33,99 @@ Volley Library <br/>
 Live data <br/>
 Retrot <br/>
 
-
+<h2> Android Development Learning path </h2> </br>
+<h3>Programming </h3>
+Java </br> 
+Kotlin </br>
+Android Studio </br> 
+Android Studio IDE Overview </br>
+Project Structure — Java/Kotlin, XML, .gradle files </br>
+Android Component</br>
+Activity — Activity Lifecycle, Tasks & Back Stack</br>
+Service </br>
+Broadcast Receiver </br>
+Content Provider </br>
+Intents </br>
+Types of Intent - Implicit, Explicit </br>
+Intent Filter </br>
+Static User Interface </br>
+View — Button, ImageView, TextView, EditText, and etc </br>
+ViewGroup - LinearLayout, RelativeLayout, FrameLayout, ConstraintLayout </br>
+Dynamic User Interface </br>
+RecyclerView </br>
+ViewPager </br>
+Spinner </br>
+CustomView </br>
+Canvas </br>
+Bitmap </br>
+Paint </br>
+UI Resources </br>
+Drawables </br>
+String </br>
+Styles </br>
+Fragments </br>
+Fragment Lifecycle </br>
+Fragment Manager
+Support User Interface
+ProgressBar
+Dialogs
+Toast & Snackbar
+Storage
+Shared Preferences
+File Systems
+Database — RoomDB
+Build
+Gradle
+Debug / Release Configuration
+Threading
+Threads
+Handler / Looper
+Debugging
+Memory profili
+Logging
+Systrace
+Exceptions</b
+Error Handling</br></b
+Memory Leak
+Detecting and Fixing Memory Leaks</br>
+Context</br>
+3rd Party Library</br>
+Image Loading - Glide, Picasso</br>
+Dependency Injection - Dagger</br>
+Networking - Fast Android Networking Library, Retrofit</br>
+MultiThreading - RxJava, Coroutines</br>
+Data Format</br>
+JSON — GSON</br>
+Flat Buffer</br>
+Protocol Buffer</br>
+Android Jetpack</br>
+Foundation Components — AppCompat, Android KTX, Multidex</br></br>
+Architecture Components — LiveData, ViewModel, DataBinding, Paging, Work Manager, Navigation</br>
+Behaviour Components - Download Manager, Media Playback, Notification, Permissions, Preference, Sharing, Slice</br>
+UI Component - Animation & Transition, Android Auto, Emoji, Palette, Android TV, Android Wear </br>
+Architecture </br>
+MVVM</br>
+MVI</br>
+MVP</br>
+Unit Testing</br>
+Local Unit Testing</br>
+Instrumentation Testing</br>
+Firebase</br>
+FCM</br>
+Crashlytics</br>
+Analytics</br>
+Remote Config</br>
+App Indexing</br>
+Dynamic Link</br>
+Security</br>
+Encrypt / Decrypt</br>
+Proguard</br>
+R8</br>
+App Release</br>
+.keystore file</br>
+App Bundle</br>
+Playstore </br>
+Keep Learning and Improving </br>
 
 
 <br/> 
