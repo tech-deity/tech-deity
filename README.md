@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there, it's Vishal Kumar!</h1>
 
 
-<img align="right" src="https://github.com/tech-deity/kotlin-basic/blob/main/157375116_293858125410250_4805920869720122906_o.jpg" height="200" width="150" />
+<img align="right" src="https://github.com/tech-deity/tech-deity/blob/main/PicsArt_03-17-01.51.41.jpg" height="200" width="150" />
 
 
 I'm **[Android  App Developer] 👨🏻‍💻 aspiring to become an Expert in the field of **Android App  development **. I’m also an **Open-Source** enthusiast with all of my projects open-sourced on [Github]. Seeking a challenging solution
