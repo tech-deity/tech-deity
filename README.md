@@ -35,8 +35,8 @@ Google Material Design   <img align="left" alt="Google Material Design" width="5
 
 UI Development (prototyping) using Adobe Xd and Figma <br/>
 
-Google Maps <br/>
-Firebase Console <br/>
+Google Maps <img align="left" alt="Google Maps" widht="56px" src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg"/><br/>
+Firebase Console <img align="left" alt="Firebase" width="56px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"/><br/>
 Dagger <br/>
 MVVM <br/>
 Google Material Design <br/>
