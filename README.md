@@ -15,6 +15,14 @@ C <br/>
 C++ <br/>
 Java <br/>
 
+<br />
+
+### Tech Stack:
+
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/572005bd136d93a5bdba3a4a5a0b32630bbbb12d/android.svg" />
+
+
+
 <h2> SKILLS  </h2> <br/>
 Json Parsing <br/>
 Rest APIs <br/>
