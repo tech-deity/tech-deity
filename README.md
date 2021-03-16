@@ -23,8 +23,7 @@ solution to become an invaluable asset to the company
 
 <h2> SKILLS  </h2> 
 
-<br/>
-Json Parsing <img align="left" alt="JSON" width="56px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /> 
+<br/>Json Parsing <img align="left" alt="JSON" width="56px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /> 
 
 Rest APIs <img align="left" alt="REST API" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" /><br/>
 
