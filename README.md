@@ -47,7 +47,7 @@ Google Material Design  <img align="left" alt="Google Material Design" width="56
 
 APIs integration  <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/ucVTUoPg_400x400.jpg" /><br/> <br/>
 
-Volley Library <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/1_ZZvIFD92R9Ef17mlWEF-Mw.jpeg" /><br/><br/>
+Volley Library <img align="left" alt="API Integration" width="86px" src="https://github.com/tech-deity/tech-deity/blob/main/1_ZZvIFD92R9Ef17mlWEF-Mw.jpeg" /><br/><br/>
 
 Live data  <img align="left" alt="LIVE DATA" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/livedata-setvalue-vs-postvalue-in-android-banner-af8979eb8ed68f99.png" /><br/> <br/>
 
