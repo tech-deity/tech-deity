@@ -23,11 +23,11 @@ solution to become an invaluable asset to the company
 
 <h2> SKILLS  </h2> 
 
-<br/> Json Parsing <br/>  <img align="left" alt="JSON" width="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />  <br/>
+<br/> Json Parsing <br/>  <img align="left" alt="JSON" width="56px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />  <br/>
 Rest APIs <br/>  <img align="left" alt="REST API" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" />  <br/>
-SQL  <br/>  <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" />  <br/>
-GIT<br/>  <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /> <br/>
-Google Material Design <br/>  <img align="left" alt="Google Material Design" width="26px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /> <br/>
+SQL  <br/>  <img align="left" alt="GIT" width="56px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" />  <br/>
+GIT<br/>  <img align="left" alt="GIT" width="56px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /> <br/>
+Google Material Design <br/>  <img align="left" alt="Google Material Design" width="56px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /> <br/>
 UI Development (prototyping) using Adobe Xd and Figma <br/>
 Google Maps <br/>
 Firebase Console <br/>
