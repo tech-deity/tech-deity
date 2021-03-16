@@ -18,18 +18,14 @@ solution to become an invaluable asset to the company
  
  <br/>
 
-### Tech Stack:
-
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/572005bd136d93a5bdba3a4a5a0b32630bbbb12d/android.svg" />
-
 
 
 <h2> SKILLS  </h2> <br/>
-Json Parsing <br/>
-Rest APIs <br/>
-SQL <br/>
-GIT <br/>
-Google Material Design <br/>
+Json Parsing  <img align="left" alt="JSON" width="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /> https://cdn.worldvectorlogo.com/logos/json.svg  <br/>
+Rest APIs <img align="left" alt="REST API" width="26px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" /> 
+SQL <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" />  <br/>
+GIT <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /> <br/>
+Google Material Design <img align="left" alt="Google Material Design" width="26px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /> <br/>
 UI Development (prototyping) using Adobe Xd and Figma <br/>
 Google Maps <br/>
 Firebase Console <br/>
