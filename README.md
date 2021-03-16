@@ -10,6 +10,7 @@ solution to become an invaluable asset to the company
 <br/>
 <br/>
 <h2> LANGUAGES </h2>
+
 <img align="left" alt="Kotlin" width="26px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/java.svg" />
  <img align="left" alt="C language" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/d970fd691b380be8d7d2b684da9a7815229441de/c%20Lang.svg" />
@@ -21,8 +22,9 @@ solution to become an invaluable asset to the company
 
 
 <h2> SKILLS  </h2> <br/>
+
 Json Parsing  <img align="left" alt="JSON" width="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />  <br/>
-Rest APIs <img align="left" alt="REST API" width="26px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" /> 
+Rest APIs <img align="left" alt="REST API" width="36px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" /> 
 SQL <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" />  <br/>
 GIT <img align="left" alt="GIT" width="26px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /> <br/>
 Google Material Design <img align="left" alt="Google Material Design" width="26px" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" /> <br/>
