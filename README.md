@@ -13,7 +13,7 @@ solution to become an invaluable asset to the company
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/kotlin-2.svg" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/java.svg" />
  <img align="left" alt="C language" width="26px" src="https://raw.githubusercontent.com/tech-deity/techdeity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/c%20Lang.svg" />
- <img align="left" alt="C ++ language" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/c%20plus%20plus.svg" />
+ <img align="left" alt="C ++ language" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/5953d95c85ebff130017708a238b1ed474932ff9/C%20plus%20plus.svg" />
  <br/>
 
 ### Tech Stack:
