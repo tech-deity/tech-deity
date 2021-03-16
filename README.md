@@ -37,7 +37,7 @@ UI Development (prototyping) using Adobe Xd and Figma <br/>
 
 Google Maps  <img align="left" alt="Google Maps" width="56px" src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" /><br/>
 
-Firebase Console <img align="left" alt="Firebase" width="56px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"/><br/>
+Firebase Console <img align="left" alt="Firebase" width="56px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /><br/>
 
 Dagger  <img align="left" alt="Dagger" width="56px" src="https://codingwithmitch.s3.amazonaws.com/static/dagger22-android/images/dagger2_on_android_getting_started.png"/><br/> 
 
