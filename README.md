@@ -9,8 +9,8 @@ development position in Android App Development . Desire to dene and create the 
 solution to become an invaluable asset to the company
 <br/>
 <br/>
-<h2> LANGUAGES </h2><br/>
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/kotlin-2.svg" />
+<h2> LANGUAGES </h2>
+<img align="left" alt="Kotlin" width="36px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/kotlin-2.svg" />
 <img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/9690d2a96dc5005b3e8f551176e872cd4d5bc0cf/java.svg" />
  <img align="left" alt="C language" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/d970fd691b380be8d7d2b684da9a7815229441de/c%20Lang.svg" />
  <img align="left" alt="C ++ language" width="26px" src="https://raw.githubusercontent.com/tech-deity/tech-deity/5953d95c85ebff130017708a238b1ed474932ff9/C%20plus%20plus.svg" />
