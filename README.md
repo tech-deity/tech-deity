@@ -23,7 +23,7 @@ solution to become an invaluable asset to the company
 
 <h2> SKILLS  </h2> 
 
-<br/>Json Parsing <img align="left" alt="JSON" width="56px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /><br/>
+<br/>Json Parsing <img align="left" alt="JSON" width="56px" src="https://cdn.worldvectorlogo.com/logos/json.svg" /><br/> <br/>
 
 Rest APIs <img align="left" alt="REST API" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/restApi.jpeg" /><br/>
 
@@ -37,17 +37,17 @@ UI Development (prototyping) using Adobe Xd and Figma <br/>
 
 Google Maps  <img align="left" alt="Google Maps" width="56px" src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" /><br/> <br/>
 
-Firebase Console <img align="left" alt="Firebase" width="56px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /><br/> <br/> <br/>
+Firebase Console <img align="left" alt="Firebase" width="56px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" /><br/> <br/> <br/> <br/>
 
 Dagger  <img align="left" alt="Dagger" width="56px" src="https://codingwithmitch.s3.amazonaws.com/static/dagger22-android/images/dagger2_on_android_getting_started.png"/><br/> 
 
 MVVM  <img align="left" alt="MVVM" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/0_nO_OYQJiyySwcyv8.png"/><br/>
 
-Google Material Design  <img align="left" alt="Google Material Design" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/ucVTUoPg_400x400.jpg"/><br/>
+Google Material Design  <img align="left" alt="Google Material Design" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/ucVTUoPg_400x400.jpg"/><br/> <br/> <br/>
 
-APIs integration  <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/ucVTUoPg_400x400.jpg" /><br/>
+APIs integration  <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/ucVTUoPg_400x400.jpg" /><br/> <br/>
 
-Volley Library <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/1_ZZvIFD92R9Ef17mlWEF-Mw.jpeg" /><br/>
+Volley Library <img align="left" alt="API Integration" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/1_ZZvIFD92R9Ef17mlWEF-Mw.jpeg" /><br/><br/>
 
 Live data  <img align="left" alt="LIVE DATA" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/livedata-setvalue-vs-postvalue-in-android-banner-af8979eb8ed68f99.png" /><br/>
 
