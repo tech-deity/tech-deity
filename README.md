@@ -58,15 +58,6 @@ Retrofit <img align="left" alt="RetroFIT" width="56px" src="https://github.com/t
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left" markdown="1">
-<a href="https://github.com/tech-deity">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tech-deity&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=tech-deity&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
-</p>
-
 
 
 <h2> Android Development Learning path </h2> </br>
@@ -186,6 +177,20 @@ Lesson 7: API and Database File cabinetPage facing up <br/>
 ### ♡ Top Sponsors
 - [Become a sponsor](https://github.com/sponsors/tech-deity)
 <img src="https://komarev.com/ghpvc/?username=wasabeef&color=blue&style=flat-square&label=visitors" align="right" />
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left" markdown="1">
+<a href="https://github.com/tech-deity">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tech-deity&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=tech-deity&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
+</p>
+
+
 
 
 
