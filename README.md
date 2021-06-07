@@ -168,6 +168,16 @@ Lesson 5: React / Angular / Vue Atom symbol <br/>
 Lesson 6: Node.js Back with leftwards arrow aboveEnd with leftwards arrow above <br/>
 Lesson 7: API and Database File cabinetPage facing up <br/>
 
+
+
+<h2> how to push on github via terminal</h2>
+git init <br/>
+git add -A <br/>
+git commit -m 'Added my project' <br/>
+git remote add origin git@github.com:sammy/my-new-project.git <br/>
+git push -u -f origin master <br/>
+
+
 - 🗼 Living in **NEW DELHI, India**
 
 - 👨‍💻 Currently Working at Mob Coder
