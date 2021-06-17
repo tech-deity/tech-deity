@@ -64,6 +64,9 @@ Retrofit <img align="left" alt="RetroFIT" width="56px" src="https://github.com/t
 [kartik online B2B business App](https://play.google.com/store/apps/details?id=com.kartikonlinewholeseller)
 
 
+[quotes app](https://play.google.com/store/apps/details?id=com.positive.quotesimages)
+
+
 
 
 
