@@ -56,9 +56,9 @@ Retrofit <img align="left" alt="RetroFIT" width="56px" src="https://github.com/t
 <h3> Apps on PlayStore </h3>
 
 
-[charDham!](https://play.google.com/store/apps/details?id=in.chardham.chardhamtour&hl=en_IN&gl=US)
+[charDham touring app](https://play.google.com/store/apps/details?id=in.chardham.chardhamtour&hl=en_IN&gl=US)
 
-[wallpaperApp!](https://play.google.com/store/apps/details?id=net.xnano.android.dynamicwallpapers.paid&hl=en_IN&gl=US)
+[wallpaperApp App download new wallpaper for free](https://play.google.com/store/apps/details?id=net.xnano.android.dynamicwallpapers.paid&hl=en_IN&gl=US)
 
 
 
