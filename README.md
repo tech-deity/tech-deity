@@ -53,6 +53,8 @@ Live data  <img align="left" alt="LIVE DATA" width="56px" src="https://github.co
 
 Retrofit <img align="left" alt="RetroFIT" width="56px" src="https://github.com/tech-deity/tech-deity/blob/main/retrofit2_getting_started.png"/><br/>
 
+<h3> Apps on PlayStore </h3>
+<a href="https://play.google.com/store/apps/details?id=in.chardham.chardhamtour&hl=en_IN&gl=US">
 
 
 
